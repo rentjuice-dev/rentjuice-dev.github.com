@@ -1,0 +1,36 @@
+<div id="cta" class="float-text left ten-all-rounded">
+	<div class="dividing-line">
+		<span class="end-cap light">
+			<span class="stat-box">
+				<span class="figure condenced-bold">30%</span>
+				<span class="arrow arrow-right"></span>
+			</span>
+			The increase in traffic to listings using correct capitalization and grammar.  
+			<a href="http://info.rentjuice.com/publishing-best-practices.html">Learn more &raquo;</a>
+		</span>
+	</div>
+	<div id="pricing" class="black-bkg ten-left-rounded">
+		<h2 class="condenced-bold">Simple, predictable pricing.</h2>
+		<p class="light">Have over 100 agents? Call us at (877) 21-JUICE. You can always add your listings to The RentJuice Directory absolutely free.</p>
+		<div id="single-user" class="price-setup">
+			<span class="aslowas">As low as...</span>
+			<span class="super-script condenced-bold">$</span>
+			<span class="price condenced-bold">59</span>
+			<span class="per-month light">/Month</span>
+			<span class="user-count reg">Single User</span>
+		</div>
+		<div id="multi-user" class="price-setup">
+			<span class="aslowas">As low as...</span>
+			<span class="super-script condenced-bold">$</span>
+			<span class="price condenced-bold">129</span>
+			<span class="per-month light">/Month</span>
+			<span class="user-count reg">Up to 100 Users</span>
+		</div>
+		<span class="arrow arrow-left"></span>
+	</div>
+	<div id="demo">
+		<h2 class="condenced-bold">Want a free demo?</h2>
+		<p class="light">We'll walk you through our product and get any questions answered with a quick demonstration.  Learn how RentJuice is changing how people think about apartment rentals.</p>
+		{% include button_free_demo.ext %}
+	</div>
+</div>

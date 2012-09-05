@@ -1,0 +1,32 @@
+<div id="wpas" class="float-text right ten-all-rounded">
+	<div class="dividing-line">
+		<span class="end-cap light">
+			<span class="tweet-box">
+				<span class="arrow arrow-right"></span>
+			</span>
+			<div id="latest-tweet"><div class="loading"></div></div>
+		</span>
+	</div>
+	<div id="customer-quote">
+		<div id="head-shot" class="customer-001"></div>
+		<span class="quote-text light">
+			"You've tripled my business. Definitely. In tougher times, rentals have been a godsend."
+		</span>
+		<div class="quote-details">
+			<span id="customer-name" class="condenced-bold">Jorge Guerra</span>
+			<span id="customer-company" class="light">Real Estate Sales Force</span>
+		</div>
+	</div>
+	<div id="as-seen-in">
+		<div id="the-real-deal" class="asi-logos"></div>
+		<div id="forbes" class="asi-logos"></div>
+		<div id="crains-new-york" class="asi-logos"></div>
+		<div id="portfolio" class="asi-logos"></div>
+		<div id="techcrunch" class="asi-logos"></div>
+		<div id="wall-street-journal" class="asi-logos"></div>
+	</div>
+	<!-- Facebook Widget -->
+	<div id="facebook-widget">
+		<div class="fb-like-box" data-href="http://www.facebook.com/rentjuice" data-width="292" data-show-faces="true" data-stream="false" data-header="false"></div>
+	</div>
+</div>

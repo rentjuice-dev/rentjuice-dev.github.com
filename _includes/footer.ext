@@ -1,0 +1,9 @@
+<div id="footer" class="ten-top-rounded">
+
+	<a href="#" id="left-corner" class="on-line light">&#x25B4; Back to Top</a>
+	{% include footer_teaser.ext %}
+
+	<div id="site-map" class="reg">
+		{% include footer_nav.ext %}
+	</div>
+</div>

@@ -1,0 +1,22 @@
+/* Partner Section Navigation */
+.partner #section-nav .nav-arrow { left:36px; }
+.developers #section-nav .nav-arrow { left:175px; }
+.documents #section-nav .nav-arrow { left:381px; }
+.lead-generation #section-nav .nav-arrow { display:none; }
+.affiliates #section-nav .nav-arrow { left:576px; }
+
+
+.partner #section-top { overflow:hidden; }
+.partner #section-top #in-it-together { background:url('/images/hp-retain.jpg') no-repeat -40px -30px; height:500px; width:500px; position:absolute; left:-50px; bottom:-120px; }
+.partner #documents { overflow:hidden; }
+.partner #documents #ios-desktop { background:url('/images/partner-documents.png') no-repeat -80px -10px; height:500px; width:500px; position:absolute; right:-50px; bottom:-120px; }
+.partner #affiliate { overflow:hidden; }
+.partner #affiliate #partner-affiliate { background:url('/images/partner-iphone.png') no-repeat -20px -40px; height:500px; width:500px; position:absolute; left:-50px; bottom:-120px; }
+.partner #developer { overflow:hidden; }
+.partner #developer #partner-developer { background:url('/images/partner-code.jpg') no-repeat 30px -70px; height:450px; width:450px; position:absolute; left:-50px; bottom:-120px; }
+
+.developers #section-top { overflow:hidden; }
+.developers #section-top #partner-developer { background:url('/images/partner-code.jpg') no-repeat -30px 0; height:450px; width:450px; position:absolute; left:-10px; bottom:-70px; }
+
+.documents #section-top { overflow:hidden; }
+.documents #section-top #ios-desktop { background:url('/images/partner-documents.png') no-repeat -80px -10px; height:500px; width:500px; position:absolute; left:-30px; bottom:-30px; }

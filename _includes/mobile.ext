@@ -1,0 +1,12 @@
+<div id="mobile" class="float-text left ten-all-rounded">
+	<div id="mobile-001" class="mobile-img">
+		<div id="andriod-store-badge"></div>
+		<div id="app-store-badge" class="bottom-left"></div>
+	</div>
+	<h2 class="condenced-bold">And it's all available on the go.</h2>
+	<p class="light">
+	Claim leads, send applications, even allow your tenant-to-be to sign their documentation right on your smartphone or tablet.
+	</p>
+	<a href="http://itunes.apple.com/us/app/rentjuice/id493875669?mt=8" class="light">Download the iOS app &raquo;</a>
+	<a href="https://play.google.com/store/apps/details?id=com.rentjuice&hl=en" class="light">Download the Android app &raquo;</a>
+</div>

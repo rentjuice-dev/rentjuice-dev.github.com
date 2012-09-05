@@ -1,0 +1,3 @@
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="description" content="{{ page.desc }}">
+<meta name="keywords" content="{{ page.keywords }}">

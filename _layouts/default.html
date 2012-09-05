@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ page.title }}</title>
+<link rel="shortcut icon" href="/favicon.ico">
+{% include meta.ext %}
+{% include css.ext %}
+</head>
+
+<body class="{{ page.pageClass }}">
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=214984888521277";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+{% include header.ext %}
+{% include section_nav.ext %}
+<div id="main-container">
+<div id="content-body">
+{{ content }}
+</div>
+{% include footer.ext %}
+</div>
+{% include js.ext %}
+</div>
+
+<!-- Snap Engage Widget -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https://www.snapengage.com":"http://www.snapengage.com") + "/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">
+SnapABug.setButton("http://www.rentjuice.com/images/rj-chat-button.png");
+SnapABug.addButton("2e0d676d-37f6-495c-a6c3-4e58fb20029c","1","85%");
+</script>
+
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i,r) {
+            if (d.getElementById(i)){return;}
+            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/186780.js';
+            e.parentNode.insertBefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
+
+</body>
+</html>

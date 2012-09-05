@@ -1,0 +1,6 @@
+<div id="main-nav" class="light">
+	<a href="/" class="prod{% if page.mainNavClass == 'product' %} active{% endif %}">The Product</a>
+	<a href="resources" class="resources{% if page.mainNavClass == 'resources' %} active{% endif %}">Resources</a>
+	<a href="/about" class="company{% if page.mainNavClass == 'company' %} active{% endif %}">Company</a>
+	<a href="partner" class="partner{% if page.mainNavClass == 'partner' %} active{% endif %}">Partner with Us</a>
+</div>

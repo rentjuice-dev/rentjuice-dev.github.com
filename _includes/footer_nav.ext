@@ -1,0 +1,23 @@
+<div id="the-product" class="site-map-col">
+	<a href="/">The Product</a>
+	<a href="/market">Market</a>
+	<a href="/lease">Lease</a>
+	<a href="/retain">Retain</a>
+</div>
+<div id="company" class="site-map-col">
+	<a href="/about">About</a>
+	<a href="/jobs">Jobs</a>
+	<a href="/press">Press</a>
+	<a href="http://help.rentjuice.com">Help Center</a>
+</div>
+<div id="resources" class="site-map-col">
+	<a href="http://www.facebook.com/rentjuice">Friend us on Facebook</a>
+	<a href="http://www.twitter.com/rentjuice">Follow us on Twitter</a>
+	<a href="http://blog.rentjuice.com">RentJuice Blog</a>
+	<a href="http://product.rentjuice.com">Product Blog</a>
+</div>
+<div id="misc" class="site-map-col">
+	<a href="/jobs">We're Hiring!</a>
+	<a href="/press">Press &amp; Resources</a>
+	<a href="/terms">Terms &amp; Conditions</a>
+</div>

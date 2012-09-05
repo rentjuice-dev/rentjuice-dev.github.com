@@ -1,0 +1,57 @@
+/* Resources Section Navigation */
+.resources #section-nav .nav-arrow { left:34px; }
+.blog-network #section-nav .nav-arrow { left:188px; }
+.library #section-nav .nav-arrow { left:400px; }
+.rent-indexes #section-nav .nav-arrow { left:590px; }
+
+.about #section-top { min-height:200px; }
+
+.leadership .stack-text.right { padding-left:320px; }
+.leadership .stack-text { padding:50px 60px; }
+.leadership h2 { margin-top:50px; }
+.leadership h3 { margin:0px; padding:0px; border-bottom:#eee 1px solid; }
+.leadership .profile-pic { width:150px; height:150px; position:absolute; left:80px; }
+.leadership #david-vivero { background:url('http://blog.rentjuice.com/wp-content/uploads/2012/02/David-Vivero.jpg') no-repeat top left; }
+.leadership #kunal-shah { background:url('http://blog.rentjuice.com/wp-content/uploads/2012/02/David-Vivero.jpg') no-repeat top left; }
+
+.jobs .stack-text { padding:50px 60px; }
+
+.press .article h3 { font-size:24px; margin:0px; padding:0px; }
+.press .details { font-size:16px; color:#888; }
+.press .article { padding-bottom:50px; }
+.press .right-column h3 { border-bottom:#EEE 1px solid; }
+
+.guide-book { float:left; text-align:center; font-size:16px; padding:0px 15px; margin-bottom:25px; width:200px; }
+.guide-book img { display:block; border:#fff 3px solid; box-shadow:rgba(0,0,0,.3) 0px 1px 2px; }
+
+.guide-book:nth-child(4n) { clear:both; padding-left:0px; }
+.guide-book:nth-child(4n+3) { padding-right:0px; }
+
+.rent-indexes .circle { left:55px; top:75px; width:200px; height:200px; background:url('/images/rent-indexes-cities.png') no-repeat top left; z-index:100; }
+.rent-indexes #other-sections { height:300px; }
+.rent-indexes #other-sections .third-stack { position:relative; text-align:center; }
+.rent-indexes #other-sections #nyc-map { background-position-y:-200px; }
+.rent-indexes #other-sections #boston-map { background-position-y:-400px; }
+.rent-indexes #other-sections #chicago-map { background-position-y:0px; }
+
+.rent-indexes #section-top { overflow:hidden; }
+.rent-indexes #section-top #graph { bottom:50px; left:0px; width:493px; height:334px; background:url('/images/resources-graph.png') no-repeat top left; z-index:99; }
+.rent-indexes #section-top #nyc-map { background-position-y:-200px; left:-40px; top:210px; }
+.rent-indexes #section-top #boston-map { background-position-y:-400px; left:120px; top:250px; }
+.rent-indexes #section-top #chicago-map { background-position-y:0px; left:80px; }
+
+.resources #section-top { overflow:hidden; }
+.resources #section-top #listing { bottom:-60px; left:-55px; width:355px; height:355px; background:url('/images/market-furnished-apt.png') no-repeat 50px 0; z-index:100; }
+.resources #section-top #graph { bottom:50px; left:0px; width:493px; height:334px; background:url('/images/resources-graph.png') no-repeat top left; z-index:99; }
+.resources #rent-indexes #indexes { bottom:0px; right:20px; width:488px; height:383px; background:url('/images/resources-stack-of-indexes.png') no-repeat top left; z-index:100; }
+.resources #library #library-stack { top:40px; left:50px; width:431px; height:242px; background:url('/images/resources-library-stack.png') no-repeat top left; z-index:100; }
+
+.library #section-top { overflow:hidden; }
+.library #section-top #stack-of-books { bottom:-30px; left:-10px; width:523px; height:412px; background:url('/images/resources-stack-of-books.png') no-repeat 0 0; z-index:100; } 
+
+.blog-network #section-top { min-height:180px; }
+.blog-network #section-top #rental-standard { bottom:0px; left:40px; width:447px; height:286px; background:url('/images/resources-rental-standard.png') no-repeat top left; }
+.blog-network #product-blog { overflow:hidden; }
+.blog-network #product-blog #blog { bottom:-20px; right:40px; width:461px; height:340px; background:url('/images/resources-product-blog.png') no-repeat top left; }
+.blog-network #renter-blog { overflow:hidden; }
+.blog-network #renter-blog #customer { background:url('/images/the-product-top.png') 60px 122px; width:500px; height:500px; position:absolute; left:-70px; top:-127px; z-index:99; }

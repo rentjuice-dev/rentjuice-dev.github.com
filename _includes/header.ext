@@ -1,9 +1,0 @@
-<div id="header">
-	<div id="header-container">
-		<a href="index.html" id="logo"></a>
-
-		{% include main_nav.ext %}
-
-		{% include action_buttons.ext %}
-	</div>
-</div>
